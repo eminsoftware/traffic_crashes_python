@@ -45,8 +45,6 @@ Source URL: https://catalog.data.gov/dataset/traffic-crashes-crashes
 The EDA provided several critical insights into traffic safety and reporting in Chicago:
 * **Peak Crash Times**: The highest volume of crashes occurs during the afternoon rush hour, specifically 3 PM (15), 4 PM (16), and 5 PM (17), indicating peak congestion as a major contributing factor.
 * **Weekend High Volume**: Contrary to typical weekday commutes, Saturday and Sunday recorded the highest number of total incidents, suggesting elevated risk during leisure travel periods.
-* **Injury in Clear Weather**: While severe conditions are dangerous, the highest overall injury counts (21 total injuries) were recorded during clear and rainy weather, suggesting that high-speed or aggressive driving contributes significantly to the severity of large multi-unit crashes.
-
-Damage Severity: For nearly every major primary contributory cause, the most frequent reported outcome was the highest damage category, "over $1,500", underscoring the high cost associated with these incidents.
-
-Delayed Reporting: A substantial number of incidents (42,641) showed a delay of over 3 days between the crash and the police being notified, revealing a potential systemic issue in accident reporting compliance or data entry lag.
+* **Injury in Clear Weather**: While severe conditions are dangerous, the highest overall injury counts (21 total injuries) were recorded during clear and rainy weather.
+* **Damage Severity**: For nearly every major primary contributory cause, the most frequent reported outcome was the highest damage category, "over $1,500", underscoring the high cost associated with these incidents.
+* **Delayed Reporting**: A substantial number of incidents (42,641) showed a delay of over 3 days between the crash and the police being notified, revealing a potential systemic issue in accident reporting compliance or data entry lag.
